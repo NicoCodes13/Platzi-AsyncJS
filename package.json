@@ -1,0 +1,15 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Nico Castañeda <nickcar13@gmail.com>",
+  "license": "MIT"
+}
