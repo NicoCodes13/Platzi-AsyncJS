@@ -11,5 +11,8 @@
     "async"
   ],
   "author": "Nico Castañeda <nickcar13@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
